@@ -38,5 +38,5 @@ add the folowing line to your webpack config
 ### Customize custom component folder
 modify the folowing line on `styleguide/styleguide.config.js`
 ```
-componentFolderPath: ['src']
+componentFolderPath: ['customFolderName', 'customFolderName2']
 ```
